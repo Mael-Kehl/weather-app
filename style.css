@@ -80,7 +80,7 @@ body{
 @media screen and (max-width: 900px) {
     .forecast-container{
         flex-direction: column;
-        height: 800px;
+        height: 700px;
     }
     .day{
         width: 90%;
