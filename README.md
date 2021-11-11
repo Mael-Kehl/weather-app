@@ -31,5 +31,8 @@ Nightly background :
 
 ![image](https://user-images.githubusercontent.com/79083274/141290857-5d494151-0e17-4cb0-8195-a431a46eb344.png)
 
+Phone design : 
+
+![image](https://user-images.githubusercontent.com/79083274/141291309-9b885873-30e2-451c-be11-7dea15e0352b.png)
 
 
