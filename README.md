@@ -27,7 +27,7 @@ Sunny background :
 
 ![image](https://user-images.githubusercontent.com/79083274/141289797-4bb6abac-8353-4288-91e8-e5c74039d558.png)
 
-Nightly background
+Nightly background :
 
 ![image](https://user-images.githubusercontent.com/79083274/141290857-5d494151-0e17-4cb0-8195-a431a46eb344.png)
 
